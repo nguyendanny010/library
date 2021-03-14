@@ -1,6 +1,6 @@
 # Library Service API
 ## What is this program?
-This program is a library service API that allows users to perform CRUD operations such as requesting and adding books from a library database.
+This program is a library service API that allows users to check out books from a library database
 
 ## What technologies does this program use?
 * Java
