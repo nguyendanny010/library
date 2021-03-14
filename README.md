@@ -16,5 +16,3 @@ Postman will be used to test API endpoints. Pictures to be added soon.
 
 ##TODO
 Switch from MySQL to PostgreSQL
-
-*Formerly the Employee API*
